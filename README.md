@@ -2,7 +2,7 @@
 
 <h2>👩🏻‍💻Cybersecurity Projects:</h2>
 
-- [Active Directory Lab](https://github.com/smiller1188/ActiveDirectory)
+- [Open Systems Interconnection(OSI) Model](https://github.com/smiller1188/OpenSystemsInterconnection)
 
 <h2>📄Certifications:</h2>
 
