@@ -7,4 +7,4 @@
 <h2>📄Certifications:</h2>
 
 - [CompTia A+](https://www.credly.com/badges/bd22f664-cc32-4856-b9ae-3378c915283d/public_url)
-- [Network+](
+- [Network+](https://www.credly.com/badges/f0c87ed0-8e96-4209-8ab0-1646bb56f7b0/public_url)
