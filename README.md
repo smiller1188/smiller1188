@@ -6,4 +6,5 @@
 
 <h2>📄Certifications:</h2>
 
-- [CompTia A+](https://www.credly.com/badges/e9d895ff-8f75-448e-993b-3786f6665251/public_url)
+- [CompTia A+](https://www.credly.com/badges/bd22f664-cc32-4856-b9ae-3378c915283d/public_url)
+- [Network+](
